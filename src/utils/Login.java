@@ -6,10 +6,5 @@ public class Login {
 
     // user
     // pass
-
-    //
-
-    // more things
-
-    // more things too
+// more cart things
 }
